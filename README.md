@@ -8,9 +8,9 @@
 
 ## 📖 Tentang Proyek
 
-Zia TechVerse adalah website blog berbasis Laravel yang membahas teknologi, Artificial Intelligence (AI), dan inovasi digital.
+Zia TechVerse adalah website blog berbasis Laravel yang membahas perkembangan teknologi, kecerdasan buatan (Artificial Intelligence), dan inovasi digital.
 
-Website ini dibuat sebagai proyek mata kuliah Pemrograman Web.
+Website ini dibuat sebagai proyek mata kuliah Pemrograman Web Program Studi Teknik Informatika Universitas Malikussaleh.
 
 ---
 
@@ -28,18 +28,6 @@ Website ini dibuat sebagai proyek mata kuliah Pemrograman Web.
 
 ---
 
-## 🖼️ Tampilan Website
-
-### Halaman Artikel
-
-![Artikel](public/images/artikel.png)
-
-### Dashboard Admin
-
-![Dashboard](public/images/dasboard.png)
-
----
-
 ## 🛠️ Teknologi yang Digunakan
 
 - Laravel 12
@@ -52,6 +40,21 @@ Website ini dibuat sebagai proyek mata kuliah Pemrograman Web.
 
 ---
 
+## 📂 Struktur Proyek
+
+```text
+app/
+bootstrap/
+config/
+database/
+public/
+resources/
+routes/
+storage/
+```
+
+---
+
 ## 👩‍💻 Pengembang
 
 **Nurfauziah**
@@ -59,6 +62,9 @@ Website ini dibuat sebagai proyek mata kuliah Pemrograman Web.
 Mahasiswi Teknik Informatika
 
 Universitas Malikussaleh
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+---
+
+## 📄 Lisensi
+
+Proyek ini dibuat untuk keperluan pembelajaran dan tugas akademik.
